@@ -1,0 +1,311 @@
+4/5/24, 8:45 AM	InstanceLoader	DatabaseModule dependencies initialized
+4/5/24, 8:45 AM	InstanceLoader	AppModule dependencies initialized
+4/5/24, 8:45 AM	InstanceLoader	EmployeesModule dependencies initialized
+4/5/24, 8:45 AM	InstanceLoader	ThrottlerModule dependencies initialized
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api, GET} route
+4/5/24, 8:45 AM	RoutesResolver	UsersController {/api/users}:
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/users, GET} route
+4/5/24, 8:45 AM	InstanceLoader	MyLoggerModule dependencies initialized
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/users/:id, GET} route
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/users/:id, PATCH} route
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/users/:id, DELETE} route
+4/5/24, 8:45 AM	RoutesResolver	EmployeesController {/api/employees}:
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/employees, POST} route
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/employees, GET} route
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/employees/:id, GET} route
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/employees/:id, PATCH} route
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/employees/:id, DELETE} route
+4/5/24, 8:45 AM	NestApplication	Nest application successfully started
+4/5/24, 8:45 AM	NestFactory	Starting Nest application...
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/users, POST} route
+4/5/24, 8:45 AM	RoutesResolver	AppController {/api}:
+4/5/24, 8:45 AM	InstanceLoader	UsersModule dependencies initialized
+4/5/24, 8:45 AM	NestFactory	Starting Nest application...
+4/5/24, 8:45 AM	InstanceLoader	UsersModule dependencies initialized
+4/5/24, 8:45 AM	InstanceLoader	AppModule dependencies initialized
+4/5/24, 8:45 AM	InstanceLoader	ThrottlerModule dependencies initialized
+4/5/24, 8:45 AM	RoutesResolver	AppController {/api}:
+4/5/24, 8:45 AM	InstanceLoader	DatabaseModule dependencies initialized
+4/5/24, 8:45 AM	RoutesResolver	UsersController {/api/users}:
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/users, GET} route
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/users/:id, GET} route
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/users, POST} route
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/users/:id, PATCH} route
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/users/:id, DELETE} route
+4/5/24, 8:45 AM	RoutesResolver	EmployeesController {/api/employees}:
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/employees, POST} route
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/employees, GET} route
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/employees/:id, GET} route
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/employees/:id, PATCH} route
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api/employees/:id, DELETE} route
+4/5/24, 8:45 AM	NestApplication	Nest application successfully started
+4/5/24, 8:45 AM	InstanceLoader	MyLoggerModule dependencies initialized
+4/5/24, 8:45 AM	InstanceLoader	EmployeesModule dependencies initialized
+4/5/24, 8:45 AM	RouterExplorer	Mapped {/api, GET} route
+4/5/24, 8:46 AM	NestFactory	Starting Nest application...
+4/5/24, 8:46 AM	InstanceLoader	UsersModule dependencies initialized
+4/5/24, 8:46 AM	InstanceLoader	AppModule dependencies initialized
+4/5/24, 8:46 AM	InstanceLoader	EmployeesModule dependencies initialized
+4/5/24, 8:46 AM	RoutesResolver	AppController {/api}:
+4/5/24, 8:46 AM	RouterExplorer	Mapped {/api, GET} route
+4/5/24, 8:46 AM	InstanceLoader	ThrottlerModule dependencies initialized
+4/5/24, 8:46 AM	RoutesResolver	UsersController {/api/users}:
+4/5/24, 8:46 AM	RouterExplorer	Mapped {/api/users, GET} route
+4/5/24, 8:46 AM	RouterExplorer	Mapped {/api/users/:id, GET} route
+4/5/24, 8:46 AM	InstanceLoader	DatabaseModule dependencies initialized
+4/5/24, 8:46 AM	RouterExplorer	Mapped {/api/users/:id, PATCH} route
+4/5/24, 8:46 AM	RouterExplorer	Mapped {/api/users, POST} route
+4/5/24, 8:46 AM	RouterExplorer	Mapped {/api/users/:id, DELETE} route
+4/5/24, 8:46 AM	InstanceLoader	MyLoggerModule dependencies initialized
+4/5/24, 8:46 AM	RouterExplorer	Mapped {/api/employees/:id, GET} route
+4/5/24, 8:46 AM	RoutesResolver	EmployeesController {/api/employees}:
+4/5/24, 8:46 AM	RouterExplorer	Mapped {/api/employees, GET} route
+4/5/24, 8:46 AM	NestApplication	Nest application successfully started
+4/5/24, 8:46 AM	RouterExplorer	Mapped {/api/employees, POST} route
+4/5/24, 8:46 AM	RouterExplorer	Mapped {/api/employees/:id, DELETE} route
+4/5/24, 8:46 AM	RouterExplorer	Mapped {/api/employees/:id, PATCH} route
+4/5/24, 8:54 AM	NestFactory	Starting Nest application...
+4/5/24, 8:54 AM	InstanceLoader	UsersModule dependencies initialized
+4/5/24, 8:54 AM	InstanceLoader	AppModule dependencies initialized
+4/5/24, 8:54 AM	InstanceLoader	EmployeesModule dependencies initialized
+4/5/24, 8:54 AM	RoutesResolver	AppController {/api}:
+4/5/24, 8:54 AM	RouterExplorer	Mapped {/api, GET} route
+4/5/24, 8:54 AM	RoutesResolver	UsersController {/api/users}:
+4/5/24, 8:54 AM	RouterExplorer	Mapped {/api/users, GET} route
+4/5/24, 8:54 AM	RouterExplorer	Mapped {/api/users/:id, GET} route
+4/5/24, 8:54 AM	RouterExplorer	Mapped {/api/users, POST} route
+4/5/24, 8:54 AM	RouterExplorer	Mapped {/api/users/:id, PATCH} route
+4/5/24, 8:54 AM	RouterExplorer	Mapped {/api/users/:id, DELETE} route
+4/5/24, 8:54 AM	RoutesResolver	EmployeesController {/api/employees}:
+4/5/24, 8:54 AM	RouterExplorer	Mapped {/api/employees, POST} route
+4/5/24, 8:54 AM	RouterExplorer	Mapped {/api/employees, GET} route
+4/5/24, 8:54 AM	RouterExplorer	Mapped {/api/employees/:id, GET} route
+4/5/24, 8:54 AM	RouterExplorer	Mapped {/api/employees/:id, PATCH} route
+4/5/24, 8:54 AM	RouterExplorer	Mapped {/api/employees/:id, DELETE} route
+4/5/24, 8:54 AM	NestApplication	Nest application successfully started
+4/5/24, 8:54 AM	InstanceLoader	DatabaseModule dependencies initialized
+4/5/24, 8:54 AM	InstanceLoader	MyLoggerModule dependencies initialized
+4/5/24, 8:54 AM	InstanceLoader	ThrottlerModule dependencies initialized
+4/5/24, 8:59 AM	NestFactory	Starting Nest application...
+4/5/24, 8:59 AM	InstanceLoader	UsersModule dependencies initialized
+4/5/24, 8:59 AM	InstanceLoader	AppModule dependencies initialized
+4/5/24, 8:59 AM	InstanceLoader	EmployeesModule dependencies initialized
+4/5/24, 8:59 AM	RoutesResolver	AppController {/api}:
+4/5/24, 8:59 AM	RouterExplorer	Mapped {/api, GET} route
+4/5/24, 8:59 AM	RoutesResolver	UsersController {/api/users}:
+4/5/24, 8:59 AM	RouterExplorer	Mapped {/api/users, GET} route
+4/5/24, 8:59 AM	RouterExplorer	Mapped {/api/users/:id, GET} route
+4/5/24, 8:59 AM	RouterExplorer	Mapped {/api/users, POST} route
+4/5/24, 8:59 AM	RouterExplorer	Mapped {/api/users/:id, PATCH} route
+4/5/24, 8:59 AM	RouterExplorer	Mapped {/api/users/:id, DELETE} route
+4/5/24, 8:59 AM	RoutesResolver	EmployeesController {/api/employees}:
+4/5/24, 8:59 AM	RouterExplorer	Mapped {/api/employees, POST} route
+4/5/24, 8:59 AM	RouterExplorer	Mapped {/api/employees, GET} route
+4/5/24, 8:59 AM	RouterExplorer	Mapped {/api/employees/:id, GET} route
+4/5/24, 8:59 AM	RouterExplorer	Mapped {/api/employees/:id, PATCH} route
+4/5/24, 8:59 AM	RouterExplorer	Mapped {/api/employees/:id, DELETE} route
+4/5/24, 8:59 AM	NestApplication	Nest application successfully started
+4/5/24, 8:59 AM	InstanceLoader	DatabaseModule dependencies initialized
+4/5/24, 8:59 AM	InstanceLoader	ThrottlerModule dependencies initialized
+4/5/24, 8:59 AM	InstanceLoader	MyLoggerModule dependencies initialized
+4/7/24, 3:33 AM	NestFactory	Starting Nest application...
+4/7/24, 3:33 AM	InstanceLoader	UsersModule dependencies initialized
+4/7/24, 3:33 AM	InstanceLoader	AppModule dependencies initialized
+4/7/24, 3:33 AM	InstanceLoader	EmployeesModule dependencies initialized
+4/7/24, 3:33 AM	RoutesResolver	AppController {/api}:
+4/7/24, 3:33 AM	RouterExplorer	Mapped {/api, GET} route
+4/7/24, 3:33 AM	RoutesResolver	UsersController {/api/users}:
+4/7/24, 3:33 AM	RouterExplorer	Mapped {/api/users, GET} route
+4/7/24, 3:33 AM	RouterExplorer	Mapped {/api/users/:id, GET} route
+4/7/24, 3:33 AM	RouterExplorer	Mapped {/api/users, POST} route
+4/7/24, 3:33 AM	RouterExplorer	Mapped {/api/users/:id, PATCH} route
+4/7/24, 3:33 AM	RouterExplorer	Mapped {/api/users/:id, DELETE} route
+4/7/24, 3:33 AM	RoutesResolver	EmployeesController {/api/employees}:
+4/7/24, 3:33 AM	RouterExplorer	Mapped {/api/employees, POST} route
+4/7/24, 3:33 AM	RouterExplorer	Mapped {/api/employees, GET} route
+4/7/24, 3:33 AM	InstanceLoader	ThrottlerModule dependencies initialized
+4/7/24, 3:33 AM	RouterExplorer	Mapped {/api/employees/:id, PATCH} route
+4/7/24, 3:33 AM	RouterExplorer	Mapped {/api/employees/:id, DELETE} route
+4/7/24, 3:33 AM	NestApplication	Nest application successfully started
+4/7/24, 3:33 AM	InstanceLoader	DatabaseModule dependencies initialized
+4/7/24, 3:33 AM	RouterExplorer	Mapped {/api/employees/:id, GET} route
+4/7/24, 3:33 AM	InstanceLoader	MyLoggerModule dependencies initialized
+4/7/24, 4:05 AM	NestFactory	Starting Nest application...
+4/7/24, 4:05 AM	InstanceLoader	UsersModule dependencies initialized
+4/7/24, 4:05 AM	InstanceLoader	AppModule dependencies initialized
+4/7/24, 4:05 AM	InstanceLoader	ThrottlerModule dependencies initialized
+4/7/24, 4:05 AM	RoutesResolver	AppController {/api}:
+4/7/24, 4:05 AM	RouterExplorer	Mapped {/api, GET} route
+4/7/24, 4:05 AM	RoutesResolver	UsersController {/api/users}:
+4/7/24, 4:05 AM	InstanceLoader	MyLoggerModule dependencies initialized
+4/7/24, 4:05 AM	RouterExplorer	Mapped {/api/users/:id, GET} route
+4/7/24, 4:05 AM	RouterExplorer	Mapped {/api/users, POST} route
+4/7/24, 4:05 AM	RouterExplorer	Mapped {/api/users/:id, PATCH} route
+4/7/24, 4:05 AM	InstanceLoader	DatabaseModule dependencies initialized
+4/7/24, 4:05 AM	RoutesResolver	EmployeesController {/api/employees}:
+4/7/24, 4:05 AM	RouterExplorer	Mapped {/api/employees, POST} route
+4/7/24, 4:05 AM	RouterExplorer	Mapped {/api/employees, GET} route
+4/7/24, 4:05 AM	RouterExplorer	Mapped {/api/employees/:id, GET} route
+4/7/24, 4:05 AM	RouterExplorer	Mapped {/api/employees/:id, PATCH} route
+4/7/24, 4:05 AM	RouterExplorer	Mapped {/api/employees/:id, DELETE} route
+4/7/24, 4:05 AM	NestApplication	Nest application successfully started
+4/7/24, 4:05 AM	RouterExplorer	Mapped {/api/users/:id, DELETE} route
+4/7/24, 4:05 AM	InstanceLoader	EmployeesModule dependencies initialized
+4/7/24, 4:05 AM	RouterExplorer	Mapped {/api/users, GET} route
+4/7/24, 4:06 AM	AllExceptionsFilter	[object Object]
+4/7/24, 4:06 AM	undefined	Request for ALL Employees	::ffff:127.0.0.1
+4/7/24, 4:06 AM	undefined	Request for ALL Employees	::ffff:127.0.0.1
+4/7/24, 4:06 AM	undefined	Request for ALL Employees	::ffff:127.0.0.1
+4/7/24, 4:06 AM	undefined	Request for ALL Employees	::ffff:127.0.0.1
+4/7/24, 4:06 AM	undefined	Request for ALL Employees	::ffff:127.0.0.1
+4/7/24, 4:06 AM	undefined	Request for ALL Employees	::ffff:127.0.0.1
+4/7/24, 4:06 AM	AllExceptionsFilter	ThrottlerException: Too Many Requests
+4/7/24, 4:06 AM	AllExceptionsFilter	ThrottlerException: Too Many Requests
+4/7/24, 4:07 AM	NestFactory	Starting Nest application...
+4/7/24, 4:07 AM	InstanceLoader	UsersModule dependencies initialized
+4/7/24, 4:07 AM	InstanceLoader	AppModule dependencies initialized
+4/7/24, 4:07 AM	InstanceLoader	ThrottlerModule dependencies initialized
+4/7/24, 4:07 AM	RoutesResolver	AppController {/api}:
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api, GET} route
+4/7/24, 4:07 AM	RoutesResolver	UsersController {/api/users}:
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/users, GET} route
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/users/:id, GET} route
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/users, POST} route
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/users/:id, PATCH} route
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/users/:id, DELETE} route
+4/7/24, 4:07 AM	RoutesResolver	EmployeesController {/api/employees}:
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/employees, POST} route
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/employees, GET} route
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/employees/:id, GET} route
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/employees/:id, PATCH} route
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/employees/:id, DELETE} route
+4/7/24, 4:07 AM	NestApplication	Nest application successfully started
+4/7/24, 4:07 AM	InstanceLoader	DatabaseModule dependencies initialized
+4/7/24, 4:07 AM	InstanceLoader	MyLoggerModule dependencies initialized
+4/7/24, 4:07 AM	InstanceLoader	EmployeesModule dependencies initialized
+4/7/24, 4:07 AM	undefined	Request for ALL Employees	::ffff:127.0.0.1
+4/7/24, 4:07 AM	undefined	Request for ALL Employees	::ffff:127.0.0.1
+4/7/24, 4:07 AM	undefined	Request for ALL Employees	::ffff:127.0.0.1
+4/7/24, 4:07 AM	AllExceptionsFilter	ThrottlerException: Too Many Requests
+4/7/24, 4:07 AM	AllExceptionsFilter	ThrottlerException: Too Many Requests
+4/7/24, 4:07 AM	NestFactory	Starting Nest application...
+4/7/24, 4:07 AM	InstanceLoader	UsersModule dependencies initialized
+4/7/24, 4:07 AM	InstanceLoader	AppModule dependencies initialized
+4/7/24, 4:07 AM	InstanceLoader	EmployeesModule dependencies initialized
+4/7/24, 4:07 AM	RoutesResolver	AppController {/api}:
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api, GET} route
+4/7/24, 4:07 AM	RoutesResolver	UsersController {/api/users}:
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/users, GET} route
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/users/:id, GET} route
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/users, POST} route
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/users/:id, PATCH} route
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/users/:id, DELETE} route
+4/7/24, 4:07 AM	RoutesResolver	EmployeesController {/api/employees}:
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/employees, POST} route
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/employees, GET} route
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/employees/:id, GET} route
+4/7/24, 4:07 AM	InstanceLoader	ThrottlerModule dependencies initialized
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/employees/:id, DELETE} route
+4/7/24, 4:07 AM	NestApplication	Nest application successfully started
+4/7/24, 4:07 AM	RouterExplorer	Mapped {/api/employees/:id, PATCH} route
+4/7/24, 4:07 AM	InstanceLoader	DatabaseModule dependencies initialized
+4/7/24, 4:07 AM	InstanceLoader	MyLoggerModule dependencies initialized
+4/7/24, 4:08 AM	undefined	Request for ALL Employees	::ffff:127.0.0.1
+4/7/24, 4:08 AM	undefined	Request for ALL Employees	::ffff:127.0.0.1
+4/7/24, 4:08 AM	AllExceptionsFilter	 Invalid `this.databaseService.employee.findMany()` invocation in /Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/src/employees/employees.service.ts:16:51    13 }   14    15 async findAll(role?: "INTERN" | 'ENGINEER' | 'ADMIN') { → 16   if(role) return this.databaseService.employee.findMany({          where: {            role: "ADMI"                  ~~~~~~          }        })  Invalid value for argument `role`. Expected Role.
+4/7/24, 4:08 AM	PrismaClientValidationError: 
+Invalid `this.databaseService.employee.findMany()` invocation in
+/Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/src/employees/employees.service.ts:16:51
+
+  13 }
+  14 
+  15 async findAll(role?: "INTERN" | 'ENGINEER' | 'ADMIN') {
+→ 16   if(role) return this.databaseService.employee.findMany({
+         where: {
+           role: "ADMI"
+                 ~~~~~~
+         }
+       })
+
+Invalid value for argument `role`. Expected Role.
+    at Tn (/Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/node_modules/@prisma/client/runtime/library.js:115:5888)
+    at In.handleRequestError (/Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/node_modules/@prisma/client/runtime/library.js:122:6510)
+    at In.handleAndLogRequestError (/Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/node_modules/@prisma/client/runtime/library.js:122:6188)
+    at In.request (/Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/node_modules/@prisma/client/runtime/library.js:122:5896)
+    at l (/Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/node_modules/@prisma/client/runtime/library.js:127:11167)
+    at /Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/node_modules/@nestjs/core/router/router-execution-context.js:46:28
+    at /Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/node_modules/@nestjs/core/router/router-proxy.js:9:17	
+Invalid `this.databaseService.employee.findMany()` invocation in
+/Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/src/employees/employees.service.ts:16:51
+
+  13 }
+  14 
+  15 async findAll(role?: "INTERN" | 'ENGINEER' | 'ADMIN') {
+→ 16   if(role) return this.databaseService.employee.findMany({
+         where: {
+           role: "ADMI"
+                 ~~~~~~
+         }
+       })
+
+Invalid value for argument `role`. Expected Role.
+4/7/24, 4:15 AM	NestFactory	Starting Nest application...
+4/7/24, 4:15 AM	InstanceLoader	UsersModule dependencies initialized
+4/7/24, 4:15 AM	InstanceLoader	AppModule dependencies initialized
+4/7/24, 4:15 AM	InstanceLoader	EmployeesModule dependencies initialized
+4/7/24, 4:15 AM	RoutesResolver	AppController {/api}:
+4/7/24, 4:15 AM	RouterExplorer	Mapped {/api, GET} route
+4/7/24, 4:15 AM	RoutesResolver	UsersController {/api/users}:
+4/7/24, 4:15 AM	RouterExplorer	Mapped {/api/users, GET} route
+4/7/24, 4:15 AM	RouterExplorer	Mapped {/api/users/:id, GET} route
+4/7/24, 4:15 AM	RouterExplorer	Mapped {/api/users, POST} route
+4/7/24, 4:15 AM	RouterExplorer	Mapped {/api/users/:id, PATCH} route
+4/7/24, 4:15 AM	RouterExplorer	Mapped {/api/users/:id, DELETE} route
+4/7/24, 4:15 AM	RoutesResolver	EmployeesController {/api/employees}:
+4/7/24, 4:15 AM	RouterExplorer	Mapped {/api/employees, POST} route
+4/7/24, 4:15 AM	RouterExplorer	Mapped {/api/employees, GET} route
+4/7/24, 4:15 AM	RouterExplorer	Mapped {/api/employees/:id, GET} route
+4/7/24, 4:15 AM	RouterExplorer	Mapped {/api/employees/:id, PATCH} route
+4/7/24, 4:15 AM	RouterExplorer	Mapped {/api/employees/:id, DELETE} route
+4/7/24, 4:15 AM	NestApplication	Nest application successfully started
+4/7/24, 4:15 AM	InstanceLoader	DatabaseModule dependencies initialized
+4/7/24, 4:15 AM	InstanceLoader	ThrottlerModule dependencies initialized
+4/7/24, 4:15 AM	InstanceLoader	MyLoggerModule dependencies initialized
+4/7/24, 4:15 AM	EmployeesController	Request for ALL Employees	::ffff:127.0.0.1
+4/7/24, 4:15 AM	AllExceptionsFilter	 Invalid `this.databaseService.employee.findMany()` invocation in /Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/src/employees/employees.service.ts:16:51    13 }   14    15 async findAll(role?: "INTERN" | 'ENGINEER' | 'ADMIN') { → 16   if(role) return this.databaseService.employee.findMany({          where: {            role: "ADMI"                  ~~~~~~          }        })  Invalid value for argument `role`. Expected Role.
+4/7/24, 4:15 AM	PrismaClientValidationError: 
+Invalid `this.databaseService.employee.findMany()` invocation in
+/Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/src/employees/employees.service.ts:16:51
+
+  13 }
+  14 
+  15 async findAll(role?: "INTERN" | 'ENGINEER' | 'ADMIN') {
+→ 16   if(role) return this.databaseService.employee.findMany({
+         where: {
+           role: "ADMI"
+                 ~~~~~~
+         }
+       })
+
+Invalid value for argument `role`. Expected Role.
+    at Tn (/Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/node_modules/@prisma/client/runtime/library.js:115:5888)
+    at In.handleRequestError (/Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/node_modules/@prisma/client/runtime/library.js:122:6510)
+    at In.handleAndLogRequestError (/Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/node_modules/@prisma/client/runtime/library.js:122:6188)
+    at In.request (/Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/node_modules/@prisma/client/runtime/library.js:122:5896)
+    at l (/Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/node_modules/@prisma/client/runtime/library.js:127:11167)
+    at /Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/node_modules/@nestjs/core/router/router-execution-context.js:46:28
+    at /Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/node_modules/@nestjs/core/router/router-proxy.js:9:17	
+Invalid `this.databaseService.employee.findMany()` invocation in
+/Users/abhishekjaglan/Desktop/BackEnd/Nestjs/nest-api/src/employees/employees.service.ts:16:51
+
+  13 }
+  14 
+  15 async findAll(role?: "INTERN" | 'ENGINEER' | 'ADMIN') {
+→ 16   if(role) return this.databaseService.employee.findMany({
+         where: {
+           role: "ADMI"
+                 ~~~~~~
+         }
+       })
+
+Invalid value for argument `role`. Expected Role.
